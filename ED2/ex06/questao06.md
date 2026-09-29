@@ -1,0 +1,1 @@
+6. Modifique a busca em profundidade para encontrar os componentes fortemente conectados.

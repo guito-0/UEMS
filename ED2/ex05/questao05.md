@@ -1,0 +1,1 @@
+5. Implemente uma versão não recursiva do algoritmo de busca em profundidade.

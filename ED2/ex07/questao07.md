@@ -1,0 +1,1 @@
+7. Implemente um algoritmo para calcular o número de componentes conexas de um grafo.
