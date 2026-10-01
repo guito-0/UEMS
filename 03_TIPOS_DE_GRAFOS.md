@@ -37,3 +37,6 @@ Abaixo estão os tipos de grafos apresentados pela professora, suas característ
 
 Relaciona-se com:
 - [Fundamentos de Grafos](02_FUNDAMENTOS_DE_GRAFOS.md)
+
+
+[Próximo](04_REPRESENTACAO_DE_GRAFOS.md)

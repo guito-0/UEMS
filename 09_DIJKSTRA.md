@@ -104,3 +104,5 @@ Pratique extrair o caminho mínimo analisando os vetores no formato exigido pela
 - [ ] Sei selecionar o nó com a operação `EXTRACT_MIN(Q)`.
 - [ ] Sei aplicar a fórmula de relaxamento `ω[v] > ω[u] + w(u,v)`.
 - [ ] Sei preencher a tabela iterativa acompanhando a evolução dos vetores a cada nó fechado.
+
+[Próximo](10_BELLMAN_FORD.md)

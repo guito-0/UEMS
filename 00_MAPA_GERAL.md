@@ -35,8 +35,6 @@ pode navegar para os tópicos específicos através dos links.
 - Árvores Geradoras Mínimas
 - Ordenação Topológica
 
-- [Comparação dos Algoritmos](17_COMPARACAO_DOS_ALGORITMOS.md)
-- [Implementações em C](18_IMPLEMENTACOES_EM_C.md)
-- [Exercícios e Cobranças](19_EXERCICIOS_E_COBRANCAS.md)
-- [Roadmap de Estudos](20_ROADMAP_DE_ESTUDOS.md)
-- [Auditoria da Base](99_AUDITORIA_DA_BASE.md)
+
+
+[Próximo](01_REVISAO_FILAS_E_PILHAS.md)

@@ -26,3 +26,6 @@ A Árvore Geradora de Custo Mínimo (AGM) ou *Minimum Spanning Tree (MST)* é a 
 A complexidade dos algoritmos originais (de 1928) evoluiu de $O(m \log n)$ para $O(m)$ em 2008[cite: 56]. Os dois mais populares e gulosos surgiram na década de 50:
 *   [Algoritmo de Prim](13_PRIM.md)[cite: 56].
 *   [Algoritmo de Kruskal](14_KRUSKAL.md)[cite: 56].
+
+
+[Próximo](13_PRIM.md)

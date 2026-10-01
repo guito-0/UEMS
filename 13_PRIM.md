@@ -99,3 +99,6 @@ O raciocínio de Prim está voltado para a inclusão de vértices um a um na ár
 - [ ] Pego o menor caminho `w` entre um vértice capturado `j ∈ T` e um livre `k ∈ N`.
 - [ ] Subtraio o vértice `k` de `N`.
 - [ ] Continuo iterando até o tamanho de `T` ser igual a `n`.
+
+
+[Próximo](14_KRUSKAL.md)

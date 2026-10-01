@@ -406,3 +406,6 @@ Este conteúdo está relacionado com:
 * **Grafos:** Vértices, arestas, caminhos e componentes conexos.
 * **Caminhos mínimos:** BFS encontra menores caminhos em número de arestas quando as arestas possuem custo uniforme.
 * **Bipartição:** A BFS pode ser utilizada para verificar se um grafo pode ser dividido em dois conjuntos sem que existam arestas entre vértices do mesmo conjunto.
+
+
+[Próximo](06_BUSCA_EM_PROFUNDIDADE_DFS.md)

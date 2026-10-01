@@ -27,3 +27,6 @@ Dois grafos $G_1$ e $G_2$ são isomorfos ($G_1 \cong G_2$) se existe um mapeamen
 
 Relaciona-se com:
 - [Tipos de Grafos](03_TIPOS_DE_GRAFOS.md)
+
+
+[Próximo](03_TIPOS_DE_GRAFOS.md)

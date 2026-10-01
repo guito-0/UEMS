@@ -111,3 +111,6 @@ Ao contrário do Dijkstra que falha com arestas negativas e possui complexidade 
 - [ ] Sei atualizar a tabela realizando a fórmula de relaxamento linha por linha.
 - [ ] Após as $n-1$ rodadas, lembro de fazer mais uma rodada completa testando a linha 11 do pseudocódigo.
 - [ ] Sei demonstrar analiticamente o ciclo negativo (Ex: `-4 > -5 → FALSE`).
+
+
+[Próximo](11_FLOYD_WARSHALL.md)

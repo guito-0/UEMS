@@ -110,3 +110,6 @@ Ignorar a diagonal principal. Durante a execução, caso haja valores negativos 
 - [ ] Sei aplicar a soma de relaxação matricial `ω[i,j] > ω[i,k] + ω[k,j]`.
 - [ ] Sei reescrever a matriz `π` registrando o vértice `k`.
 - [ ] Lembro de verificar ciclos negativos através da observação de valores negativos gerados na diagonal principal da matriz `ω`.
+
+
+[Próximo](12_ARVORE_GERADORA_MINIMA_AGM.md)

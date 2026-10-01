@@ -126,3 +126,5 @@ A DFS usa recursão (pilha), e visita todos os vértices do grafo. BFS usa fila 
 *   [Revisão Filas e Pilhas](01_REVISAO_FILAS_E_PILHAS.md) (Pilhas Recursivas)
 *   [Busca em Largura (BFS)](05_BUSCA_EM_LARGURA_BFS.md)
 
+
+[Próximo](07_COMPARACAO_BFS_x_DFS.md)

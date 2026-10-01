@@ -103,3 +103,6 @@ Teste na linguagem C: Altere a implementação enviada para retornar o Custo tot
 - [ ] Anoto a aresta `h_1` obrigatoriamente logo no começo.
 - [ ] Sei avaliar visualmente a condição matemática $T \cup h_i$ (verificar se é acíclico).
 - [ ] Descarto as arestas que formam ciclos fechados.
+
+
+[Próximo](15_COMPARACAO_DOS_ALGORITMOS.md)

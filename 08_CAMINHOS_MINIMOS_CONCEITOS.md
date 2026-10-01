@@ -34,3 +34,5 @@ Relax (u, v, w)
 2.     ω[v] = ω[u] + w(u,v)
 3.     π[v] = u
 ```
+
+[Próximo](09_DIJKSTRA.md)

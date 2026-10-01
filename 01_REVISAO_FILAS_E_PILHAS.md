@@ -18,3 +18,6 @@ Uma Pilha é um tipo especial de lista onde inserções e exclusões ocorrem ape
 Relaciona-se com:
 - [Busca em Largura (BFS)](05_BUSCA_EM_LARGURA_BFS.md) (Utiliza Filas)
 - [Busca em Profundidade (DFS)](06_BUSCA_EM_PROFUNDIDADE_DFS.md) (Utiliza Pilhas)
+
+
+[Próximo](02_FUNDAMENTOS_DE_GRAFOS.md)
