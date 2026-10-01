@@ -74,7 +74,9 @@ BFS(V, A, s)
 17.                   ENFILEIRA(Q, v)
 18.     cor[u] ← PRETO 
 
-**## 9. Pseudocódigo traduzido para linguagem simples**
+```
+
+## 9. Pseudocódigo traduzido para linguagem simples**
 
 A função `BFS` funciona como uma exploração por **camadas** utilizando uma **fila (FIFO)**.
 
