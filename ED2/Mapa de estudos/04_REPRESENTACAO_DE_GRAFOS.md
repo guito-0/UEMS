@@ -2,11 +2,11 @@
 
 A professora ensina duas formas principais de representar grafos computacionalmente[cite: 4].
 
-## 1. Lista de Adjacência# Busca em Largura (BFS - Breadth-First Search)
+## 1. Lista de Adjacência
 ## 1. O que é
 É um algoritmo que explora o grafo sistematicamente expandindo a "fronteira" de vértices descobertos. A partir de um nó inicial, visita todos os seus vizinhos diretos (distância 1), para depois visitar os vizinhos dos vizinhos (distância 2), e assim por diante.
 
-## 2. Para que serve# Busca em Largura (BFS - Breadth-First Search)
+## 2. Para que serve
 
 ## 1. O que é
 
